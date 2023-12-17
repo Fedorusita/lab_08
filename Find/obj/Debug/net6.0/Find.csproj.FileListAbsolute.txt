@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\lab_08\Find\bin\Debug\net6.0\Find.exe
+C:\Users\User\source\repos\lab_08\Find\bin\Debug\net6.0\Find.deps.json
+C:\Users\User\source\repos\lab_08\Find\bin\Debug\net6.0\Find.runtimeconfig.json
+C:\Users\User\source\repos\lab_08\Find\bin\Debug\net6.0\Find.dll
+C:\Users\User\source\repos\lab_08\Find\bin\Debug\net6.0\Find.pdb
+C:\Users\User\source\repos\lab_08\Find\obj\Debug\net6.0\Find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\lab_08\Find\obj\Debug\net6.0\Find.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab_08\Find\obj\Debug\net6.0\Find.AssemblyInfo.cs
+C:\Users\User\source\repos\lab_08\Find\obj\Debug\net6.0\Find.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab_08\Find\obj\Debug\net6.0\Find.dll
+C:\Users\User\source\repos\lab_08\Find\obj\Debug\net6.0\refint\Find.dll
+C:\Users\User\source\repos\lab_08\Find\obj\Debug\net6.0\Find.pdb
+C:\Users\User\source\repos\lab_08\Find\obj\Debug\net6.0\Find.genruntimeconfig.cache
+C:\Users\User\source\repos\lab_08\Find\obj\Debug\net6.0\ref\Find.dll
